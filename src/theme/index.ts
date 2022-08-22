@@ -5,6 +5,7 @@ export default {
     text_green:'#007004'
   },
   fonts:{
-    
+    fontMedium:'Inter_500Medium',
+    fontBold:'Inter_700Bold'
   }
 }
